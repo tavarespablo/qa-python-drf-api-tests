@@ -18,6 +18,7 @@ The goal is to showcase professional QA practices, such as:
 ---
 
 ## Project Structure
+```
 qa-python-drf-api-tests/
 │
 ├─ tests/
@@ -46,7 +47,7 @@ qa-python-drf-api-tests/
 ├─ requirements.txt
 ├─ README.md
 └─ .gitignore
-
+```
 ## Setting Up
 
 ### 1. Create new Virtual Environment
