@@ -1,1 +1,2 @@
 PRODUCTS = "/products"
+ORDERS = "/carts"
